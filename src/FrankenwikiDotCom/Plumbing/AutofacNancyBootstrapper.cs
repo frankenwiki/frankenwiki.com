@@ -1,13 +1,11 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Web;
 using Autofac;
 using Nancy;
 using Nancy.Bootstrapper;
 using Nancy.Diagnostics;
 
-namespace Frankenwiki.Nancy.Demo.Plumbing
+namespace FrankenwikiDotCom.Plumbing
 {
     // From https://github.com/NancyFx/Nancy.Bootstrappers.Autofac
     public abstract class AutofacNancyBootstrapper : NancyBootstrapperWithRequestContainerBase<ILifetimeScope>

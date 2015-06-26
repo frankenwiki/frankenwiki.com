@@ -2,7 +2,7 @@
 using Autofac;
 using Frankenwiki.Host.Nancy.Features;
 
-namespace Frankenwiki.Nancy.Demo.Plumbing
+namespace FrankenwikiDotCom.Plumbing
 {
     public static class IoC
     {

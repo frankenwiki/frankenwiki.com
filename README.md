@@ -1,3 +1,5 @@
-# frankenwiki.nancy.demo
+# frankenwiki.com
 
-A demo Frankenwiki using Nancy and Autofac
+The [frankenwiki.com](http://frankenwiki.com) site, the home page for the Frankenwiki project, itself a Frankenwiki wiki.
+
+IT'S ALIVE

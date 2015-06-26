@@ -1,10 +1,11 @@
 ﻿using System.IO;
 using Autofac;
+using Frankenwiki;
 using Frankenwiki.Configuration;
 using Nancy;
 using Nancy.Bootstrapper;
 
-namespace Frankenwiki.Nancy.Demo.Plumbing
+namespace FrankenwikiDotCom.Plumbing
 {
     public class Bootstrapper : AutofacNancyBootstrapper
     {
